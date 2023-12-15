@@ -9,7 +9,7 @@ Remember: You may assume that each input would have exactly one solution, and yo
 Call the 'twoSum' function and pass to it 2 arguments: The array of numbers to analyze and the target number.
 
 ```javascript
-twoSum(nums, 9);
+twoSum(nums, target);
 ```
 
 ## Algorithm Time Complexity
