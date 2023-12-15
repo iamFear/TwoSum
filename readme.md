@@ -1,6 +1,6 @@
 # TwoSum Algorithm
 
-Given an array of integers 'nums' and an integer 'target', this algorithm written in JavaScript returns indices of the two numbers such that they add up to the target.
+Given an array of integers 'nums' and an integer 'target', this algorithm written in JavaScript returns the indexes of the two numbers that added together result in the target number.
 
 Remember: You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
